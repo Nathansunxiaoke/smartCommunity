@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/ad.gif</file>
+        <file>image/logIn1.jpg</file>
+        <file>image/NFCCard.jpg</file>
+        <file>image/icon/set.png</file>
+        <file>image/icon/wifion.png</file>
+        <file>image/icon/eye.png</file>
+        <file>image/weather/sun.jpg</file>
+        <file>image/weather/cloudy.jpg</file>
+        <file>image/icon/passwd.png</file>
+        <file>image/icon/usr.png</file>
+        <file>image/icon/usr.ico</file>
+        <file>image/ad/1.jpg</file>
+        <file>image/ad/2.jpg</file>
+        <file>image/ad/3.jpg</file>
+        <file>image/icon/more.png</file>
+        <file>image/icon/musicpng.png</file>
+        <file>image/icon/video.png</file>
+        <file>image/icon/game.png</file>
+        <file>image/icon/bulb.png</file>
+        <file>image/icon/server.png</file>
+        <file>image/icon/home.png</file>
+        <file>image/icon/clear.png</file>
+        <file>image/icon/close.png</file>
+        <file>image/icon/open.png</file>
+        <file>image/icon/trumpet.png</file>
+        <file>image/icon/win.png</file>
+        <file>image/icon/loction.png</file>
+        <file>image/icon/start.png</file>
+        <file>image/icon/stop.png</file>
+        <file>image/icon/mclosepng.png</file>
+    </qresource>
+</RCC>
